@@ -1,0 +1,19 @@
+# Dataset
+PCB_DATASET/
+YOLO_DATASET/
+images/
+labels/
+
+# Model / weights
+*.pt
+*.pth
+*.h5
+*.zip
+# Cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+.venv/
