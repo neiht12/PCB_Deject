@@ -1,6 +1,6 @@
 # Dataset
-PCB_DATASET/
-YOLO_DATASET/
+data/PCB_DATASET/
+data/YOLO_DATASET/
 images/
 labels/
 runs/

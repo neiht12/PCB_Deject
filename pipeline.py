@@ -20,8 +20,8 @@ def run_ml_pipeline():
             "short": 3, "spur": 4, "spurious_copper": 5
         }
         converter = VOC2YOLOConverter(
-            root_dir="PCB_DATASET",
-            output_dir="YOLO_DATASET",
+            root_dir="data/PCB_DATASET",
+            output_dir="data/YOLO_DATASET",
             classes=CLASSES
         )
         converter.run_pipeline()

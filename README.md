@@ -35,3 +35,5 @@ PCB_DEFECT_PROJECT/
 ├── app.py               # FastAPI Web Server (Production API)
 ├── pipeline.py          # Internal Orchestrator
 └── requirements.txt     # Dependency list
+
+## 
